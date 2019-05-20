@@ -1,0 +1,55 @@
+[
+    {
+    "_template": "template",
+    "_comment": "Line comment",
+    "_comment_text": "Comment Text",
+    "_comment_category": "Comment Catergory"
+    },
+            {
+            "_comment": "Office 365 oplossingen",
+            "text": "Office365 oplossingen",
+            "category": "office365",
+            "oplossingCatergory": "office 365"
+            },
+
+                {
+                    "_comment": "Agenda delen",
+                    "text": "Agenda delen",
+                    "category": "office365",
+                    "oplossingCatergory": "office 365",
+                    "OplossingURL": "https://ict.hnt.nl/support/solutions/articles/10000022146"
+                },
+
+                {
+                    "_comment": "Een gedeeld postvak openen op de mac",
+                    "text": "Een gedeeld postvak openen op de mac",
+                    "category": "office365",
+                    "oplossingCatergory": "office 365",
+                    "OplossingURL": "https://ict.hnt.nl/support/solutions/articles/100000047326"
+                },
+
+                {
+                    "_comment": "Sharepoint mappen synchroniseren met je computer",
+                    "text": "Sharepoint mappen synchroniseren met je computer",
+                    "category": "office365",
+                    "oplossingCatergory": "office 365",
+                    "OplossingURL": "https://ict.hnt.nl/support/solutions/articles/10000029695-sharepoint-mappen-synchroniseren-met-je-computer"
+                },
+                
+                {
+                    "_comment": "Een handtekening invoegen in Word",
+                    "text": "Een handtekening invoegen in Word",
+                    "category": "office365",
+                    "oplossingCatergory": "office 365",
+                    "OplossingURL": "https://ict.hnt.nl/support/solutions/articles/10000030217-een-handtekening-invoegen-in-word"
+                },
+                
+                {
+                    "_comment": "Nieuw email adres & Yammer",
+                    "text": "Nieuw email adres & Yammer",
+                    "category": "office365",
+                    "oplossingCatergory": "office 365",
+                    "OplossingURL": "https://ict.hnt.nl/support/solutions/articles/10000031699-handleiding-nieuw-email-adres-yammer"
+                }
+
+]

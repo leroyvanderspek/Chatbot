@@ -1,0 +1,18 @@
+{
+    "name": "HNT Chatbot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "index.html",
+            "id": "d684dfe0-771d-11e9-91bc-5b8062d20245",
+            "name": "index.html"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "/Users/leroyvanderspek/Desktop/Chatbot/HNT Chatbot.bot"
+}
